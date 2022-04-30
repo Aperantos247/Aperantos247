@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and coding softwares
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: ! Aperantoss247🐊#2097 Email: aperantossbusiness@gmail.com
+- 📫 How to reach me: Discord: Sim247.py#2097
 
 
 <!---
